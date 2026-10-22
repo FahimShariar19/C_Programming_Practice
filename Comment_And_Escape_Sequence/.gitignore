@@ -1,0 +1,6 @@
+# Ignore all compiled executable application files
+*.exe
+
+# Ignore system and OS specific hidden files
+.DS_Store
+Thumbs.db
